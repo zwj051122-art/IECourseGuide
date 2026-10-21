@@ -57,8 +57,6 @@ abbrs:
 - [Franz Edelman Award Gala 2022](2022_Edelman_Gala_Book.pdf)
 - [Franz Edelman Award Gala 2023](2023_Edelman_Gala_Book.pdf)
 
-- [Test](Wolsey.-.Integer.Programming.pdf)
-
 
 ## 历年回忆卷
 - [20xx-OR期中样卷](20xx-OR期中样卷.pdf)
