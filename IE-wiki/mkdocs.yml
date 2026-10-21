@@ -53,7 +53,7 @@ plugins:
   
 extra:
   # 「提交修改」页生成 Issue 时使用的目标仓库（.github/contribution-schema.md 第 7 节）
-  contribution_repo: NJUWallSpider/IECourseGuide
+  contribution_repo: zwj051122-art/IECourseGuide
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/NJUWallSpider/IECourseGuide
